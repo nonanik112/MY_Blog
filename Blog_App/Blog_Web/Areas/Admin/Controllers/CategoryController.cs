@@ -28,7 +28,7 @@ namespace Blog_Web.Areas.Admin.Controllers
         {
             _categoryService = categoryService;
         }
-
+        [Authorize(Roles = "Admin, Category.Read")]
         public async Task<IActionResult> Index()
         {
             var result = await _categoryService.GetAllByNonDeletedAsync();
@@ -109,12 +109,47 @@ namespace Blog_Web.Areas.Admin.Controllers
             });
             return Json(categories);
         }
-
+        [Authorize(Roles = "Admin, Category.Read")]
         [HttpPost]
         public async Task<JsonResult> Delete(int categoryId)
         {
             var result = await _categoryService.DeleteAsync(categoryId, LoggedInUser.UserName);
             var deletedCategory = JsonSerializer.Serialize(result.Data);
+            return Json(deletedCategory);
+        }
+        [Authorize(Roles = "Admin, Category.Read")]
+        [HttpGet]
+        public async Task<IActionResult> DeleteCategories()
+        {
+            var result = await _categoryService.GetAllByDeletedAsync();
+            return View(result.Data);
+
+        }
+        [Authorize(Roles = "Admin, Category.Read")]
+        [HttpGet]
+        public async Task<JsonResult> GetAllDeletedCategories()
+        {
+            var result = await _categoryService.GetAllByDeletedAsync();
+            var categories = JsonSerializer.Serialize(result.Data, new JsonSerializerOptions
+            {
+                //ReferenceHandler = ReferenceHandler.Preserve
+            });
+            return Json(categories);
+        }
+        [Authorize(Roles = "Admin, Category.Update")]
+        [HttpPost]
+        public async Task<JsonResult> UndoDelete(int categoryId)
+        {
+            var result = await _categoryService.UndoDeleteAsync(categoryId, LoggedInUser.UserName);
+            var undodeletedCategory = JsonSerializer.Serialize(result.Data);
+            return Json(undodeletedCategory);
+        }
+        [Authorize(Roles = "Admin, Category.Update")]
+        [HttpPost]
+        public async Task<JsonResult> HardDelete(int categoryId)
+        {
+            var result = await _categoryService.HardDeleteAsync(categoryId);
+            var deletedCategory = JsonSerializer.Serialize(result);
             return Json(deletedCategory);
         }
     }

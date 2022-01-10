@@ -25,7 +25,7 @@ namespace ProgramerBlog.Services.Abstract
 
         Task<IDataResult<CategoryListDto>> GetAllByNonDeletedAndActiveAsync();
 
-        Task<IDataResult<CategoryListDto>> GetAllByDeletedActiveAsync();
+        Task<IDataResult<CategoryListDto>> GetAllByDeletedAsync();
 
         /// <summary>
         /// Verilen CategoryAddDto ve CreatedByName parametrelerine ait bilgiler ile yeni bir Category ekler.

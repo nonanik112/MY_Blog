@@ -425,3 +425,6 @@ D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razo
 D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razor\Areas\Admin\Views\Auth\AccessDenied.cshtml.g.cs
 D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razor\Areas\Admin\Views\Auth\Login.cshtml.g.cs
 D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Blog_Web.csproj.AssemblyReference.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razor\Areas\Admin\Views\Category\DeleteCategories.cshtml.g.cs
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razor\Areas\Admin\Views\Article\DeletedArticles.cshtml.g.cs
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\Blog_Web\obj\Debug\netcoreapp5.0\Razor\Areas\Admin\Views\Comment\DeletedComments.cshtml.g.cs

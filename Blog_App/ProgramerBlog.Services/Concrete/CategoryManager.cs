@@ -215,7 +215,7 @@ namespace ProgramerBlog.Services.Concrete
             }
         }
 
-        public async Task<IDataResult<CategoryListDto>> GetAllByDeletedActiveAsync()
+        public async Task<IDataResult<CategoryListDto>> GetAllByDeletedAsync()
         {
             var categories = await UnitOfWork.Categories.GetAllAsync(c => c.IsDeleted );
             if (categories.Count > -1)
