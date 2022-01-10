@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Services\\ProgramerBlog.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\ProgramerBlog.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\ProgramerBlog.Data.csproj",
+        "projectName": "ProgramerBlog.Data",
+        "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\ProgramerBlog.Data.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj": {
+                "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj",
+        "projectName": "ProgramerBlog.Entities",
+        "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj": {
+                "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Services\\ProgramerBlog.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Services\\ProgramerBlog.Services.csproj",
+        "projectName": "ProgramerBlog.Services",
+        "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Services\\ProgramerBlog.Services.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\ProgramerBlog.Data.csproj": {
+                "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Data\\ProgramerBlog.Data.csproj"
+              },
+              "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj": {
+                "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Entitites\\ProgramerBlog.Entities.csproj"
+              },
+              "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj": {
+                "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj",
+        "projectName": "ProgramerBlog.Shared",
+        "projectPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\ProgramerBlog.Shared.csproj",
+        "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
+        "outputPath": "D:\\Belgelerim\\Karışık\\C#\\Blog_\\Blog_App\\ProgramerBlog.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Metehan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

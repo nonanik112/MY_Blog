@@ -1,0 +1,15 @@
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ProgramerBlog.Entities.deps.json
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ProgramerBlog.Entities.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ref\ProgramerBlog.Entities.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ProgramerBlog.Entities.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp5.0\ProgramerBlog.Shared.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.AssemblyInfo.cs
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.csproj.CopyComplete
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ref\ProgramerBlog.Entities.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp5.0\ProgramerBlog.Entities.csproj.AssemblyReference.cache

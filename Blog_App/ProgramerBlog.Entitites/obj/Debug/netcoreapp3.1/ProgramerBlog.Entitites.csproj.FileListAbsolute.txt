@@ -1,0 +1,12 @@
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp3.1\ProgramerBlog.Entitites.deps.json
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp3.1\ProgramerBlog.Entitites.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp3.1\ProgramerBlog.Entitites.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp3.1\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\bin\Debug\netcoreapp3.1\ProgramerBlog.Shared.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.csprojAssemblyReference.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.AssemblyInfo.cs
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.csproj.CopyComplete
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Entitites\obj\Debug\netcoreapp3.1\ProgramerBlog.Entitites.pdb

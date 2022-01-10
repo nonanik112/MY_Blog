@@ -1,0 +1,12 @@
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\bin\Debug\netcoreapp5.0\ProgramerBlog.Shared.deps.json
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\bin\Debug\netcoreapp5.0\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\bin\Debug\netcoreapp5.0\ref\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\bin\Debug\netcoreapp5.0\ProgramerBlog.Shared.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.AssemblyInfo.cs
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ref\ProgramerBlog.Shared.dll
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.pdb
+D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Shared\obj\Debug\netcoreapp5.0\ProgramerBlog.Shared.csproj.AssemblyReference.cache

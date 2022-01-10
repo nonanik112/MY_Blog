@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Belgelerim\Karışık\C#\Blog_\Blog_App\ProgramerBlog.Services\ProgramerBlog.Services.xml</DocumentationFile>
+    <NoWarn>1701;1702;CS1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Concrete\CategoryManager.cs~RF46c24b75.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProgramerBlog.Data\ProgramerBlog.Data.csproj" />
+    <ProjectReference Include="..\ProgramerBlog.Entitites\ProgramerBlog.Entities.csproj" />
+    <ProjectReference Include="..\ProgramerBlog.Shared\ProgramerBlog.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
